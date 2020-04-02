@@ -1,0 +1,22 @@
+{
+  "product": {
+    "name": "Page Builder",
+    "components": [
+      "Page Builder Types"
+    ]
+  },
+  "contacts": {
+    "team": {
+      "name": "Obesessive Owls",
+      "DL": "Grp-obsessive-owls-team"
+    }
+  },
+  "ticketTracker": {
+    "jira": {
+      "projectKey": "PB"
+    },
+    "github": {
+      "project": ""
+    }
+  }
+}
